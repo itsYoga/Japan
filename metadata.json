@@ -1,0 +1,8 @@
+{
+  "name": "Kyoto & Osaka Travel Log",
+  "description": "A collaborative travel planner with a Japanese handbook aesthetic, featuring itinerary management, expense tracking, and AI-powered guide tips.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
